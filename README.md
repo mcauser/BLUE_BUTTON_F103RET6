@@ -69,4 +69,5 @@ $ screen /dev/tty.usbmodem1422
 
 ### Links:
 
-[STM32F103RE on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/stm32f103/stm32f103re.html)
+* [STM32F103RE on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/stm32f103/stm32f103re.html)
+* [Buy on AliExpress](https://www.aliexpress.com/item/STM32F103RET6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino-Minimum-System-Board-STM32F103C8T6-upgrade-version/32787890975.html) or search for "STM32F103RET6"
