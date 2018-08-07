@@ -16,7 +16,7 @@ You can buy one for around $7 USD on [AliExpress](https://www.aliexpress.com/ite
 
 :warning: Most likely does not work yet.
 
-* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) ports/stm32/boards folder.
+* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) `ports/stm32/boards` folder.
 
 ```
 cd micropython/ports/stm32/boards
@@ -38,7 +38,7 @@ make BOARD=BLUE_BUTTON_F103RET6 deploy
 * Connect the board via USB
 
 ```
-$ screen /dev/tty.usbmodem1422
+screen /dev/tty.usbmodem1422
 ```
 
 ### Specifications:
@@ -75,3 +75,7 @@ $ screen /dev/tty.usbmodem1422
 * [STM32F103RET6 dimensions](https://github.com/mcauser/BLUE_BUTTON_F103RET6/blob/master/docs/STM32F103RET6_dimensions.pdf)
 * [STM32F103RET6 pcb top](https://github.com/mcauser/BLUE_BUTTON_F103RET6/blob/master/docs/STM32F103RET6_top.pdf)
 * [STM32F103RET6 pcb bottom](https://github.com/mcauser/BLUE_BUTTON_F103RET6/blob/master/docs/STM32F103RET6_bottom.pdf)
+
+## License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
